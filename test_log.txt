@@ -1,0 +1,276 @@
+[22/3/17 21:12:38 709] ============================================
+[22/3/17 21:12:38 709] ===============pad_bk3===========
+[22/3/17 21:12:38 717] ============================================
+[22/3/17 21:12:38 719] ===   sw_ver   : 1.9
+[22/3/17 21:12:38 719] ===   hw_ver   : 1.0
+[22/3/17 21:12:38 719] ===   pid      : 0dqeqlhw
+[22/3/17 21:12:38 727] ===   fir_name : yunding_diy_keypad_bk3431q
+[22/3/17 21:12:38 727] ===   did      : 022b34e1e7fcfcc7
+[22/3/17 21:12:38 727] ===   auth_key : RIAO93lZKngQ5APn1FnSwSHKTj4HEk1J
+[22/3/17 21:12:38 732] --------------------------------------------
+[22/3/17 21:12:38 732] bt_mac: 
+[22/3/17 21:12:38 732] a7 1b ed 4d 23 dc 
+[22/3/17 21:12:39 145] normal mode start
+[22/3/17 21:12:39 158] simpleflash area[0] start addr: 0x68000, size: 8192
+[22/3/17 21:12:39 174] simpleflash area[1] start addr: 0x6a000, size: 8192
+[22/3/17 21:12:39 174] simpleflash area[2] start addr: 0x6c000, size: 8192
+[22/3/17 21:12:39 174] simpleflash area[3] start addr: 0x6e000, size: 8192
+[22/3/17 21:12:39 174] simpleflash area[4] start addr: 0x70000, size: 8192
+[22/3/17 21:12:39 188] simpleflash area[5] start addr: 0x72000, size: 8192
+[22/3/17 21:12:39 188] simpleflash area[6] start addr: 0x74000, size: 8192
+[22/3/17 21:12:39 188] simpleflash area[7] start addr: 0x76000, size: 8192
+[22/3/17 21:12:39 197] simpleflash area[8] start addr: 0x78000, size: 8192
+[22/3/17 21:12:39 198] simpleflash area[9] start addr: 0x7a000, size: 8192
+[22/3/17 21:12:39 358] [FP] app_fp_init
+[22/3/17 21:12:39 374] fp aes key = 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77
+[22/3/17 21:12:39 390] rtc type is 0x0
+[22/3/17 21:12:39 402] init time_zone_setting=800
+[22/3/17 21:12:39 402] calendar interval=1000ms
+[22/3/17 21:12:39 413] Reboot Random Second[403]
+[22/3/17 21:12:39 413] battery period timer start. period:60000
+[22/3/17 21:12:39 413] mac: A71BED4D23DC
+[22/3/17 21:12:39 413] ioexpander version:0x0416
+[22/3/17 21:12:39 413] auth key: 
+[22/3/17 21:12:39 427] 73 31 31 74 34 63 76 68 
+[22/3/17 21:12:39 427] 65 6d 39 32 44 53 34 72 
+[22/3/17 21:12:39 427] 76 4e 49 79 52 59 4a 50 
+[22/3/17 21:12:39 427] 77 43 35 42 52 5a 51 7a 
+[22/3/17 21:12:39 427] device id: 
+[22/3/17 21:12:39 427] 37 32 66 65 62 37 34 30 
+[22/3/17 21:12:39 427] 35 36 32 30 65 64 32 62 
+[22/3/17 21:12:40 408] reboot reason read err reason[0]
+[22/3/17 21:12:40 410] cur_state state:02
+[22/3/17 21:12:40 418] start advertising
+[22/3/17 21:12:40 418] cur_state state:03
+[22/3/17 21:12:49 026] touch shot press get key 10
+[22/3/17 21:12:49 032] {battery sys}: cur_rate = 200
+[22/3/17 21:12:49 032] appm stop advertising
+[22/3/17 21:12:49 042] [unlock] unlocking!
+[22/3/17 21:12:49 042] passwd_input_handler gPasswdLen:0 key:10
+[22/3/17 21:12:49 042] adv stoped
+[22/3/17 21:12:49 042] APPM_WAIT_ADVERTISTING_END
+[22/3/17 21:12:49 049] cur_state state:05
+[22/3/17 21:12:49 049] appm_start_scanning
+[22/3/17 21:12:49 049] loading 1, bonding 0
+[22/3/17 21:12:49 060] mac: 
+[22/3/17 21:12:49 060] 94 1a ed 4d 23 dc 
+[22/3/17 21:12:49 064] s_current_slave_index: 0
+[22/3/17 21:12:49 064] cur_state state:06
+[22/3/17 21:12:49 065] appm_stop_scanning
+[22/3/17 21:12:49 072] cur state = 7, can't start connecting ,delay !!!
+[22/3/17 21:12:49 078] scan stoped
+[22/3/17 21:12:49 083] cur_state state:08
+[22/3/17 21:12:49 084] scan && adv off
+[22/3/17 21:12:49 084] addr: 
+[22/3/17 21:12:49 094] 94 1a ed 4d 23 dc 
+[22/3/17 21:12:49 094] Start connect!
+[22/3/17 21:12:49 492] ROLE_MASTER Connected
+[22/3/17 21:12:49 498] cur_state state:0a
+[22/3/17 21:12:49 891] GAPC_GET_PEER_FEATURES ok !
+[22/3/17 21:12:50 461] cur_state state:0c
+[22/3/17 21:12:50 617] current_cmd_rx: 0000
+[22/3/17 21:12:50 706] current_cmd_rx: 0001
+[22/3/17 21:12:50 713] current_cmd_rx: 8011
+[22/3/17 21:12:50 713] loading 1, bonding 1
+[22/3/17 21:12:50 720] dp_cmd: 
+[22/3/17 21:12:50 720] 47 00 18 00 04 00 01 33 
+[22/3/17 21:12:50 720] 35 36 35 35 32 32 33 00 
+[22/3/17 21:12:50 727] 62 33 33 ce 32 00 00 00 
+[22/3/17 21:12:50 727] 00 00 01 
+[22/3/17 21:12:50 796] current_cmd_rx: 0002
+[22/3/17 21:12:50 824] current_cmd_rx: 8001
+[22/3/17 21:12:50 832] OPEN SUCCESS
+[22/3/17 21:12:50 832] open with key success
+[22/3/17 21:12:50 832] func appm_disconnect
+[22/3/17 21:12:50 832] dp_rsp: 
+[22/3/17 21:12:50 840] 47 00 13 00 01 00 04 33 
+[22/3/17 21:12:50 840] 35 36 35 35 32 32 33 00 
+[22/3/17 21:12:50 840] ce 33 33 62 32 00 
+[22/3/17 21:12:50 854] ROLE_MASTER Disconnected: 0x16
+[22/3/17 21:12:50 854] TUYA_BLE_MASTER_EVT_DISCONNECT
+[22/3/17 21:12:50 858] cur_state state:0d
+[22/3/17 21:12:50 863] start advertising
+[22/3/17 21:12:50 871] cur_state state:03
+[22/3/17 21:12:51 718] appm stop advertising
+[22/3/17 21:12:51 726] adv stoped
+[22/3/17 21:12:51 726] APPM_WAIT_ADVERTISTING_END
+[22/3/17 21:12:51 726] cur_state state:05
+[22/3/17 21:12:51 726] appm_start_scanning
+[22/3/17 21:12:52 034] mac: 
+[22/3/17 21:12:52 034] 7f 1a ed 4d 23 dc 
+[22/3/17 21:12:52 041] s_current_slave_index: 1
+[22/3/17 21:12:52 041] cur_state state:06
+[22/3/17 21:12:52 041] appm_stop_scanning
+[22/3/17 21:12:52 046] cur state = 7, can't start connecting ,delay !!!
+[22/3/17 21:12:52 058] scan stoped
+[22/3/17 21:12:52 058] cur_state state:08
+[22/3/17 21:12:52 058] scan && adv off
+[22/3/17 21:12:52 058] addr: 
+[22/3/17 21:12:52 058] 7f 1a ed 4d 23 dc 
+[22/3/17 21:12:52 058] Start connect!
+[22/3/17 21:12:52 456] ROLE_MASTER Connected
+[22/3/17 21:12:52 462] cur_state state:0a
+[22/3/17 21:12:52 861] GAPC_GET_PEER_FEATURES ok !
+[22/3/17 21:12:53 341] cur_state state:0c
+[22/3/17 21:12:53 497] current_cmd_rx: 0000
+[22/3/17 21:12:53 586] current_cmd_rx: 0001
+[22/3/17 21:12:53 591] dp_cmd: 
+[22/3/17 21:12:53 595] 47 00 18 00 04 00 02 33 
+[22/3/17 21:12:53 595] 35 36 35 35 32 32 33 00 
+[22/3/17 21:12:53 606] 62 33 33 d1 32 00 00 00 
+[22/3/17 21:12:53 606] 00 00 02 
+[22/3/17 21:12:53 606] current_cmd_rx: 8011
+[22/3/17 21:12:53 677] current_cmd_rx: 0002
+[22/3/17 21:12:53 703] current_cmd_rx: 8001
+[22/3/17 21:12:53 709] OPEN SUCCESS
+[22/3/17 21:12:53 710] open with key success
+[22/3/17 21:12:53 710] func appm_disconnect
+[22/3/17 21:12:53 710] dp_rsp: 
+[22/3/17 21:12:53 714] 47 00 13 00 02 00 04 33 
+[22/3/17 21:12:53 714] 35 36 35 35 32 32 33 00 
+[22/3/17 21:12:53 725] d1 33 33 62 32 00 
+[22/3/17 21:12:53 725] stop polling, flag 1
+[22/3/17 21:12:53 725] [unlock] unlock success!
+[22/3/17 21:12:53 732] ROLE_MASTER Disconnected: 0x16
+[22/3/17 21:12:53 742] TUYA_BLE_MASTER_EVT_DISCONNECT
+[22/3/17 21:12:53 742] cur_state state:0d
+[22/3/17 21:12:53 742] start advertising
+[22/3/17 21:12:53 750] cur_state state:03
+[22/3/17 21:12:38 709] ============================================
+[22/3/17 21:12:38 709] ===============pad_bk3===========
+[22/3/17 21:12:38 717] ============================================
+[22/3/17 21:12:38 719] ===   sw_ver   : 1.9
+[22/3/17 21:12:38 719] ===   hw_ver   : 1.0
+[22/3/17 21:12:38 719] ===   pid      : 0dqeqlhw
+[22/3/17 21:12:38 727] ===   fir_name : yunding_diy_keypad_bk3431q
+[22/3/17 21:12:38 727] ===   did      : 022b34e1e7fcfcc7
+[22/3/17 21:12:38 727] ===   auth_key : RIAO93lZKngQ5APn1FnSwSHKTj4HEk1J
+[22/3/17 21:12:38 732] --------------------------------------------
+[22/3/17 21:12:38 732] bt_mac: 
+[22/3/17 21:12:38 732] a7 1b ed 4d 23 dc 
+[22/3/17 21:12:39 145] normal mode start
+[22/3/17 21:12:39 158] simpleflash area[0] start addr: 0x68000, size: 8192
+[22/3/17 21:12:39 174] simpleflash area[1] start addr: 0x6a000, size: 8192
+[22/3/17 21:12:39 174] simpleflash area[2] start addr: 0x6c000, size: 8192
+[22/3/17 21:12:39 174] simpleflash area[3] start addr: 0x6e000, size: 8192
+[22/3/17 21:12:39 174] simpleflash area[4] start addr: 0x70000, size: 8192
+[22/3/17 21:12:39 188] simpleflash area[5] start addr: 0x72000, size: 8192
+[22/3/17 21:12:39 188] simpleflash area[6] start addr: 0x74000, size: 8192
+[22/3/17 21:12:39 188] simpleflash area[7] start addr: 0x76000, size: 8192
+[22/3/17 21:12:39 197] simpleflash area[8] start addr: 0x78000, size: 8192
+[22/3/17 21:12:39 198] simpleflash area[9] start addr: 0x7a000, size: 8192
+[22/3/17 21:12:39 358] [FP] app_fp_init
+[22/3/17 21:12:39 374] fp aes key = 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77 77
+[22/3/17 21:12:39 390] rtc type is 0x0
+[22/3/17 21:12:39 402] init time_zone_setting=800
+[22/3/17 21:12:39 402] calendar interval=1000ms
+[22/3/17 21:12:39 413] Reboot Random Second[403]
+[22/3/17 21:12:39 413] battery period timer start. period:60000
+[22/3/17 21:12:39 413] mac: A71BED4D23DC
+[22/3/17 21:12:39 413] ioexpander version:0x0416
+[22/3/17 21:12:39 413] auth key: 
+[22/3/17 21:12:39 427] 73 31 31 74 34 63 76 68 
+[22/3/17 21:12:39 427] 65 6d 39 32 44 53 34 72 
+[22/3/17 21:12:39 427] 76 4e 49 79 52 59 4a 50 
+[22/3/17 21:12:39 427] 77 43 35 42 52 5a 51 7a 
+[22/3/17 21:12:39 427] device id: 
+[22/3/17 21:12:39 427] 37 32 66 65 62 37 34 30 
+[22/3/17 21:12:39 427] 35 36 32 30 65 64 32 62 
+[22/3/17 21:12:40 408] reboot reason read err reason[0]
+[22/3/17 21:12:40 410] cur_state state:02
+[22/3/17 21:12:40 418] start advertising
+[22/3/17 21:12:40 418] cur_state state:03
+[22/3/17 21:12:49 026] touch shot press get key 10
+[22/3/17 21:12:49 032] {battery sys}: cur_rate = 200
+[22/3/17 21:12:49 032] appm stop advertising
+[22/3/17 21:12:49 042] [unlock] unlocking!
+[22/3/17 21:12:49 042] passwd_input_handler gPasswdLen:0 key:10
+[22/3/17 21:12:49 042] adv stoped
+[22/3/17 21:12:49 042] APPM_WAIT_ADVERTISTING_END
+[22/3/17 21:12:49 049] cur_state state:05
+[22/3/17 21:12:49 049] appm_start_scanning
+[22/3/17 21:12:49 049] loading 1, bonding 0
+[22/3/17 21:12:49 060] mac: 
+[22/3/17 21:12:49 060] 94 1a ed 4d 23 dc 
+[22/3/17 21:12:49 064] s_current_slave_index: 0
+[22/3/17 21:12:49 064] cur_state state:06
+[22/3/17 21:12:49 065] appm_stop_scanning
+[22/3/17 21:12:49 072] cur state = 7, can't start connecting ,delay !!!
+[22/3/17 21:12:49 078] scan stoped
+[22/3/17 21:12:49 083] cur_state state:08
+[22/3/17 21:12:49 084] scan && adv off
+[22/3/17 21:12:49 084] addr: 
+[22/3/17 21:12:49 094] 94 1a ed 4d 23 dc 
+[22/3/17 21:12:49 094] Start connect!
+[22/3/17 21:12:49 492] ROLE_MASTER Connected
+[22/3/17 21:12:49 498] cur_state state:0a
+[22/3/17 21:12:49 891] GAPC_GET_PEER_FEATURES ok !
+[22/3/17 21:12:50 461] cur_state state:0c
+[22/3/17 21:12:50 617] current_cmd_rx: 0000
+[22/3/17 21:12:50 706] current_cmd_rx: 0001
+[22/3/17 21:12:50 713] current_cmd_rx: 8011
+[22/3/17 21:12:50 713] loading 1, bonding 1
+[22/3/17 21:12:50 720] dp_cmd: 
+[22/3/17 21:12:50 720] 47 00 18 00 04 00 01 33 
+[22/3/17 21:12:50 720] 35 36 35 35 32 32 33 00 
+[22/3/17 21:12:50 727] 62 33 33 ce 32 00 00 00 
+[22/3/17 21:12:50 727] 00 00 01 
+[22/3/17 21:12:50 796] current_cmd_rx: 0002
+[22/3/17 21:12:50 824] current_cmd_rx: 8001
+[22/3/17 21:12:50 832] OPEN SUCCESS
+[22/3/17 21:12:50 832] open with key success
+[22/3/17 21:12:50 832] func appm_disconnect
+[22/3/17 21:12:50 832] dp_rsp: 
+[22/3/17 21:12:50 840] 47 00 13 00 01 00 04 33 
+[22/3/17 21:12:50 840] 35 36 35 35 32 32 33 00 
+[22/3/17 21:12:50 840] ce 33 33 62 32 00 
+[22/3/17 21:12:50 854] ROLE_MASTER Disconnected: 0x16
+[22/3/17 21:12:50 854] TUYA_BLE_MASTER_EVT_DISCONNECT
+[22/3/17 21:12:50 858] cur_state state:0d
+[22/3/17 21:12:50 863] start advertising
+[22/3/17 21:12:50 871] cur_state state:03
+[22/3/17 21:12:51 718] appm stop advertising
+[22/3/17 21:12:51 726] adv stoped
+[22/3/17 21:12:51 726] APPM_WAIT_ADVERTISTING_END
+[22/3/17 21:12:51 726] cur_state state:05
+[22/3/17 21:12:51 726] appm_start_scanning
+[22/3/17 21:12:52 034] mac: 
+[22/3/17 21:12:52 034] 7f 1a ed 4d 23 dc 
+[22/3/17 21:12:52 041] s_current_slave_index: 1
+[22/3/17 21:12:52 041] cur_state state:06
+[22/3/17 21:12:52 041] appm_stop_scanning
+[22/3/17 21:12:52 046] cur state = 7, can't start connecting ,delay !!!
+[22/3/17 21:12:52 058] scan stoped
+[22/3/17 21:12:52 058] cur_state state:08
+[22/3/17 21:12:52 058] scan && adv off
+[22/3/17 21:12:52 058] addr: 
+[22/3/17 21:12:52 058] 7f 1a ed 4d 23 dc 
+[22/3/17 21:12:52 058] Start connect!
+[22/3/17 21:12:52 456] ROLE_MASTER Connected
+[22/3/17 21:12:52 462] cur_state state:0a
+[22/3/17 21:12:52 861] GAPC_GET_PEER_FEATURES ok !
+[22/3/17 21:12:53 341] cur_state state:0c
+[22/3/17 21:12:53 497] current_cmd_rx: 0000
+[22/3/17 21:12:53 586] current_cmd_rx: 0001
+[22/3/17 21:12:53 591] dp_cmd: 
+[22/3/17 21:12:53 595] 47 00 18 00 04 00 02 33 
+[22/3/17 21:12:53 595] 35 36 35 35 32 32 33 00 
+[22/3/17 21:12:53 606] 62 33 33 d1 32 00 00 00 
+[22/3/17 21:12:53 606] 00 00 02 
+[22/3/17 21:12:53 606] current_cmd_rx: 8011
+[22/3/17 21:12:53 677] current_cmd_rx: 0002
+[22/3/17 21:12:53 703] current_cmd_rx: 8001
+[22/3/17 21:12:53 709] OPEN SUCCESS
+[22/3/17 21:12:53 710] open with key success
+[22/3/17 21:12:53 710] func appm_disconnect
+[22/3/17 21:12:53 710] dp_rsp: 
+[22/3/17 21:12:53 714] 47 00 13 00 02 00 04 33 
+[22/3/17 21:12:53 714] 35 36 35 35 32 32 33 00 
+[22/3/17 21:12:53 725] d1 33 33 62 32 00 
+[22/3/17 21:12:53 725] stop polling, flag 1
+[22/3/17 21:12:53 725] [unlock] unlock success!
+[22/3/17 21:12:53 732] ROLE_MASTER Disconnected: 0x16
+[22/3/17 21:12:53 742] TUYA_BLE_MASTER_EVT_DISCONNECT
+[22/3/17 21:12:53 742] cur_state state:0d
+[22/3/17 21:12:53 742] start advertising
+[22/3/17 21:12:53 750] cur_state state:03
